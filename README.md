@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vlady0505
 - 👀 I’m interested in BlockChain & Full-stack Development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     Senior Full Stack Developer
