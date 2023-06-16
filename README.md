@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vlady0505
-- 👀 I’m interested in BlockChain & Full-stack Development.
+- 👀 Welcome to my Github.
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing.jpg" />
 </p>
-
+<!-- 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&column=7&theme=onedark"/>
@@ -22,12 +22,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
   </a>
-</p>
+</p> -->
 
 ## Skills
 
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
-- 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
+- 🌱 Frontend : React, Vue, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Dart/Flutter, Ionic
+- 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js, Rust
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
 - 📫 Interesting : AI, Blockchain
