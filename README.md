@@ -1,4 +1,4 @@
-- 👋 Welcome to my Github.👀
+- 👋 Welcome to my Github. 👀
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing.jpg" />
+  <img src="https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-29/9952f320-49c4-11eb-8e93-835c7725694d.jpg" />
 </p>
 <!-- 
 <h3>🏆 Github Profile Trophy</h3>
