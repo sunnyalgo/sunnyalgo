@@ -27,7 +27,7 @@
 
 - 🌱 Frontend : React, Vue, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Dart/Flutter, Ionic
 - 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js, Rust
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite, AWS DynamoDB , Firebase Firestore
 - 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
 - 📫 Interesting : AI, Blockchain
 
