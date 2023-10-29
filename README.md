@@ -81,8 +81,3 @@
     &nbsp;&nbsp;
   </div>
 </div>
-<div>
-  <h4 align="center">How to contant me?</h4>
-  
-  <p> GMail Address : vlady960505@gmail.com </p>
-</div>
